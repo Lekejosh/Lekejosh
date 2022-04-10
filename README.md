@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adeleke Joshua A.</h1>
-<h3 align="center">A passionate fullstack developer from Lagos, Nigeria.</h3>
+<h3 align="center">A passionate FullStack developer from Lagos, Nigeria.</h3>
 
 <p align="left"> <a href="https://twitter.com/joshuadeleke" target="blank"><img src="https://img.shields.io/twitter/follow/joshuadeleke?logo=twitter&style=for-the-badge" alt="joshuadeleke" /></a> </p>
 
