@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [e-Commerce Fullstack Website with CRUD functionality](https://www.github.com/lekejosh)
+- 🔭 I’m currently working on [Attandance Mandagement System](https://www.github.com/lekejosh)
 
 - 🌱 I’m currently learning **Web 3.0 and React**
 
