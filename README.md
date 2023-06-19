@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on [Road Transport System](https://github.com/Lekejosh/Road-Transportation-System)
+- 🔭 I’m currently working on [Inspira Space](https://github.com/Lekejosh/Road-Transportation-System)
 
-- 🌱 I’m currently learning **Web 3.0 and React**
+- 🌱 I’m currently learning *Backend**
 
 - 👯 I’m looking to collaborate on **Any project**
 
