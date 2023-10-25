@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adeleke Joshua A.</h1>
-<h3 align="center">A passionate FullStack(BE Heavy) developer </h3>
+<h3 align="center">A passionate Backend developer </h3>
 
 
 
-- 🔭 I’m currently working on [Inspira Space](https://github.com/inspiraspace), [Homescapex](https://github.com/Homescapex)
+- 🔭Currently cooking something for [Inspira Space](https://github.com/inspiraspace) and [Homescapex](https://github.com/Homescapex)
 
-- 🌱 I’m currently learning *Backend*
+- 🌱 I’m currently learning *alot*
 
 - 👯 I’m looking to collaborate on **Any project**
 
