@@ -50,6 +50,6 @@ Do visit my Medium page where I occasionally publish about my experiences explor
 ![picture](https://avatars.githubusercontent.com/u/54216428?v=4)
 </details>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=lekejosh.lekejosh)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=lekejosh)
 
 Last Edited on: 22/12/2023
